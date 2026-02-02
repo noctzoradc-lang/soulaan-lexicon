@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Soulaan Lexicon of Continuity</title>
+  <meta name="description" content="Soulaan Lexicon of Continuity — definitional reference for peoplehood, continuity, culture, and classification." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <div class="brand-title">Soulaan Lexicon of Continuity</div>
+        <div class="brand-subtitle">Foundational Edition • Version 0.9</div>
+      </div>
+
+      <nav class="top-nav" aria-label="Primary navigation">
+        <button class="nav-btn" data-view="home">Lexicon</button>
+        <button class="nav-btn" data-view="preface">Preface</button>
+        <button class="nav-btn" data-view="rules">Rules</button>
+        <button class="nav-btn" data-view="afterword">Afterword</button>
+        <button class="nav-btn" data-view="citation">Citation</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+
+    <section id="controls" class="card controls" aria-label="Search and filters">
+      <div class="controls-row">
+
+        <label class="control">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Search terms, definitions, tags…" autocomplete="off" />
+        </label>
+
+        <label class="control">
+          <span>Section</span>
+          <select id="sectionSelect">
+            <option value="">All Sections</option>
+          </select>
+        </label>
+
+        <label class="control">
+          <span>Tag</span>
+          <select id="tagSelect">
+            <option value="">All Tags</option>
+          </select>
+        </label>
+
+        <button id="clearBtn" class="btn" type="button">Clear</button>
+      </div>
+
+      <div class="az-row" id="azRow" aria-label="A to Z filter"></div>
+    </section>
+
+    <section id="content" class="content-grid">
+      <!-- Content is rendered by app.js -->
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-line">
+        © <span id="year"></span> Soulaan Lexicon of Continuity • Version 0.9
+      </div>
+      <div class="footer-line subtle">
+        Click any term to open a shareable link.
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
