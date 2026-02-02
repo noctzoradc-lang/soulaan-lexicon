@@ -10,3 +10,4 @@ https://noctzoradc-lang.github.io/soulaan-lexicon/
 The Soulaan Lexicon of Continuity is a non-sovereign, internally governed definitional framework intended for educational, institutional, and cultural reference.
 
 Definitions are declarative, not advocative, and are organized to preserve clarity, continuity, and internal meaning across historical reclassification.
+(Deployment refresh)
