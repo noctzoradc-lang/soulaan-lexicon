@@ -194,3 +194,187 @@ input, select {
 .subtle {
   color: var(--muted);
 }
+/* ===========================
+   Dark theme (older black look)
+   =========================== */
+:root{
+  --bg: #0b0d10;
+  --panel: #0f1318;
+  --panel2:#111821;
+  --text:#e8eef5;
+  --muted:#aab4c0;
+  --border:#222a35;
+  --accent:#6aa6ff;
+  --shadow: 0 10px 30px rgba(0,0,0,.45);
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+a { color: var(--accent); }
+
+header, .header, .topbar {
+  background: linear-gradient(180deg, rgba(17,24,33,.95), rgba(11,13,16,.95));
+  border-bottom: 1px solid var(--border);
+}
+
+input, textarea, select {
+  background: #0d1219;
+  color: var(--text);
+  border: 1px solid var(--border);
+  outline: none;
+}
+
+input::placeholder { color: rgba(170,180,192,.65); }
+
+.card, .panel, .sidebar, .toc, main, .reader, .details, .definition-panel {
+  background: var(--panel);
+  border-color: var(--border);
+}
+
+/* ===========================
+   FIX: mobile “skinny right panel”
+   (force stack on phones)
+   =========================== */
+@media (max-width: 900px) {
+  .layout,
+  .app,
+  .container,
+  .shell,
+  .columns,
+  .grid,
+  .content {
+    display: block !important;
+  }
+
+  aside,
+  .sidebar,
+  .toc {
+    width: 100% !important;
+    max-width: 100% !important;
+    border-right: none !important;
+    border-bottom: 1px solid var(--border);
+    position: static !important;
+  }
+
+  main,
+  .main,
+  .reader {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .panel,
+  .detail,
+  .details,
+  .definition-panel,
+  .term-panel {
+    width: 100% !important;
+    max-width: 100% !important;
+    position: static !important;
+    right: auto !important;
+    left: auto !important;
+    top: auto !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    border-left: none !important;
+    border-top: 1px solid var(--border);
+  }
+}
+
+/* ===========================
+   On-screen keyboard styling
+   =========================== */
+.kbd-toggle{
+  position: fixed;
+  right: 14px;
+  bottom: 14px;
+  z-index: 9999;
+  background: var(--panel2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  box-shadow: var(--shadow);
+  font-size: 18px;
+}
+
+.kbd{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9998;
+  background: rgba(10,12,15,.98);
+  border-top: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  transform: translateY(110%);
+  transition: transform .18s ease;
+  padding: 10px;
+}
+
+.kbd.open{
+  transform: translateY(0);
+}
+
+.kbd-bar{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.kbd-title{
+  font-weight: 700;
+  color: var(--text);
+}
+
+.kbd-actions{
+  display:flex;
+  gap: 8px;
+}
+
+.kbd-btn{
+  background: var(--panel2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 10px;
+}
+
+.kbd-rows{
+  display:flex;
+  flex-direction:column;
+  gap: 8px;
+}
+
+.kbd-row{
+  display:flex;
+  gap: 8px;
+  justify-content:center;
+  flex-wrap: nowrap;
+}
+
+.kbd-key{
+  flex: 1;
+  min-width: 28px;
+  background: #0f151d;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 0;
+  text-align:center;
+  font-size: 16px;
+}
+
+.kbd-key.wide{
+  flex: 1.2;
+}
+
+@media (max-width: 420px){
+  .kbd-key{ font-size: 15px; padding: 9px 0; }
+}
