@@ -74,5 +74,37 @@
   </footer>
 
   <script src="app.js"></script>
-</body>
+<!-- Floating keyboard toggle button -->
+<button id="kbdToggle" class="kbd-toggle" type="button" aria-expanded="false">
+  ⌨️
+</button>
+
+<!-- On-screen keyboard -->
+<div id="kbd" class="kbd" aria-hidden="true">
+  <div class="kbd-bar">
+    <div class="kbd-title">Soulaan Keyboard</div>
+    <div class="kbd-actions">
+      <button type="button" class="kbd-btn" data-action="backspace">⌫</button>
+      <button type="button" class="kbd-btn" data-action="space">Space</button>
+      <button type="button" class="kbd-btn" data-action="enter">Enter</button>
+      <button type="button" class="kbd-btn" data-action="close">Close</button>
+    </div>
+  </div>
+
+  <div class="kbd-rows">
+    <div class="kbd-row">
+      <button class="kbd-key" data-key="q">q</button>
+      <button class="kbd-key" data-key="w">w</button>
+      <button class="kbd-key" data-key="e">e</button>
+      <button class="kbd-key" data-key="r">r</button>
+      <button class="kbd-key" data-key="t">t</button>
+      <button class="kbd-key" data-key="y">y</button>
+      <button class="kbd-key" data-key="u">u</button>
+      <button class="kbd-key" data-key="i">i</button>
+      <button class="kbd-key" data-key="o">o</button>
+      <button class="kbd-key" data-key="p">p</button>
+    </div>
+    <!-- remaining rows unchanged -->
+  </div>
+</div></body>
 </html>
