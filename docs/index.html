@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Soulaan Lexicon of Continuity — v0.92</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="app.js" defer></script>
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Soulaan Lexicon of Continuity</h1>
+      <p class="subtitle">A Trust-Governed Definitional Reference — v0.92</p>
+    </div>
+
+    <div class="searchRow">
+      <input id="searchInput" type="search" placeholder="Search terms or IDs (e.g., 6, 32a2, diaspora)" autocomplete="off" />
+      <button id="clearBtn" type="button" title="Clear">Clear</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="left">
+      <div class="panelTitle">Table of Contents</div>
+      <nav id="toc" class="toc"></nav>
+    </aside>
+
+    <section class="right">
+      <div class="panelTitle">Definition</div>
+      <article id="content" class="content">
+        <div class="emptyState">
+          <h2>Ready.</h2>
+          <p>Use the search bar or tap a term in the Table of Contents.</p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <!-- On-screen keyboard -->
+  <section class="oskWrap">
+    <div id="osk" class="osk" aria-label="On-screen keyboard"></div>
+  </section>
+</body>
+</html>
