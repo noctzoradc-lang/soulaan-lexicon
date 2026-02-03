@@ -318,3 +318,105 @@ async function init(){
 }
 
 init();
+// ===========================
+// On-screen keyboard support
+// ===========================
+(function(){
+  const toggle = document.getElementById("kbdToggle");
+  const kbd = document.getElementById("kbd");
+
+  // Change this selector if your search input has a different id:
+  // e.g. document.querySelector('input[type="search"]')
+  const searchInput =
+    document.getElementById("search") ||
+    document.querySelector('input[type="search"]') ||
+    document.querySelector('input[placeholder*="Search"]');
+
+  let target = searchInput;
+
+  function openKbd(){
+    if(!kbd) return;
+    kbd.classList.add("open");
+    kbd.setAttribute("aria-hidden","false");
+    if(toggle) toggle.setAttribute("aria-expanded","true");
+  }
+
+  function closeKbd(){
+    if(!kbd) return;
+    kbd.classList.remove("open");
+    kbd.setAttribute("aria-hidden","true");
+    if(toggle) toggle.setAttribute("aria-expanded","false");
+  }
+
+  function insertText(el, text){
+    if(!el) return;
+    el.focus();
+
+    const start = el.selectionStart ?? el.value.length;
+    const end = el.selectionEnd ?? el.value.length;
+
+    el.value = el.value.slice(0, start) + text + el.value.slice(end);
+
+    const cursor = start + text.length;
+    el.setSelectionRange(cursor, cursor);
+
+    // Trigger your existing filtering logic
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+  }
+
+  function backspace(el){
+    if(!el) return;
+    el.focus();
+
+    const start = el.selectionStart ?? el.value.length;
+    const end = el.selectionEnd ?? el.value.length;
+
+    if(start !== end){
+      el.value = el.value.slice(0, start) + el.value.slice(end);
+      el.setSelectionRange(start, start);
+    } else if(start > 0) {
+      el.value = el.value.slice(0, start - 1) + el.value.slice(end);
+      el.setSelectionRange(start - 1, start - 1);
+    }
+
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+  }
+
+  // Track last-focused input (so keyboard can type into it)
+  document.addEventListener("focusin", (e) => {
+    if(e.target && (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA")){
+      target = e.target;
+    }
+  });
+
+  // Toggle button
+  if(toggle){
+    toggle.addEventListener("click", () => {
+      if(kbd.classList.contains("open")) closeKbd();
+      else openKbd();
+    });
+  }
+
+  // Keyboard click handling
+  if(kbd){
+    kbd.addEventListener("click", (e) => {
+      const btn = e.target.closest("button");
+      if(!btn) return;
+
+      const action = btn.dataset.action;
+      const key = btn.dataset.key;
+
+      if(action === "close") return closeKbd();
+      if(action === "backspace") return backspace(target);
+      if(action === "space") return insertText(target, " ");
+      if(action === "enter") return insertText(target, "\n");
+
+      if(typeof key === "string") insertText(target, key);
+    });
+  }
+
+  // Optional: open keyboard automatically when search is focused
+  if(searchInput){
+    searchInput.addEventListener("focus", () => openKbd());
+  }
+})();
