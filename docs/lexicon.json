@@ -1,0 +1,908 @@
+{
+  "meta": {
+    "title": "Soulaan Lexicon of Continuity",
+    "subtitle": "A Trust-Governed Definitional Reference",
+    "version": "0.92",
+    "status": "Provisional Edition",
+    "year": 2026,
+    "governingAuthority": "Freedmen Reparations Fund Trust (FRFT)",
+    "steward": "Dwayne Coleman",
+    "site": "https://noctzoradc-lang.github.io/soulaan-lexicon/",
+    "notice": "This lexicon is definitional rather than advocative and includes a non-sovereignty / non-jurisdiction clause. Use requires version-accurate attribution where applicable."
+  },
+  "sections": [
+    { "id": "A", "title": "Foundational Principles & Peoplehood Definitions", "range": "1–25" },
+    { "id": "B", "title": "Interpretive, Methodological & Definitional Governance Terms", "range": "26–33" },
+    { "id": "C", "title": "Cultural, Linguistic & Spiritual Systems of Continuity", "range": "34–49" },
+    { "id": "D", "title": "Identity, Classification & Institutional Application Terms", "range": "50–73" },
+    { "id": "E", "title": "Diaspora, Boundary & Demarcation Terms", "range": "74–88" },
+    { "id": "F", "title": "Comparative Ethnic & Ethno-National Terms", "range": "89–96" }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "section": "A",
+      "term": "Soulaan",
+      "pos": "noun",
+      "definition": "An indigenous continuity people whose ethnocultural identity emerged and persists through multigenerational, land-based continuity within the land now called the United States, predating modern state formation and sustained through uninterrupted presence, kinship transmission, collective historical memory, and land-embedded cultural systems. Soulaan denotes a people whose identity is not reducible to race, nationality, diaspora, or legal status. It preserves continuity across historical reclassifications without implying rupture, replacement, or invention of a new people. The lexicon does not assert nationality, citizenship authority, territorial sovereignty, or legal tribal status, and does not negate the peoplehood or indigeneity of other distinct populations.",
+      "scope": [
+        "Definitional, not advocative",
+        "Non-sovereignty / non-jurisdiction",
+        "Not a claim to legal tribal enrollment",
+        "Not a claim to exclusive territorial rights"
+      ],
+      "crossRefs": [2, 5, 6, 8, 9, 10, 11, 22, 23, 32]
+    },
+    {
+      "id": 1.1,
+      "section": "A",
+      "term": "Analytically Portable, Ethnoculturally Specific Framework",
+      "pos": "method term",
+      "definition": "A definitional structure capable of use across academic, educational, and institutional contexts while remaining specific to the people and continuity conditions it describes. Portable for comparison, not generalizable beyond ethnocultural scope.",
+      "crossRefs": [28]
+    },
+    {
+      "id": 2,
+      "section": "A",
+      "term": "Peoplehood",
+      "pos": "noun",
+      "definition": "The condition of being a people, characterized by shared continuity, historical memory anchored in place, cultural systems, and land-embedded kinship self-recognition. Peoplehood exists independently of state recognition, legal status, or external validation and is sustained through intergenerational transmission rather than formal designation. Within this lexicon, peoplehood is the primary unit of identity.",
+      "crossRefs": [1, 10, 11]
+    },
+    {
+      "id": 3,
+      "section": "A",
+      "term": "American (Ethnic)",
+      "pos": "noun / adjective",
+      "definition": "A place-based ethnocultural identifier referring to peoples formed and originating within the territory now known as the United States through multigenerational continuity. Ethnic American identity is determined by formation on American soil, not by ancestry alone, race, or citizenship. It is not synonymous with U.S. nationality and does not require legal citizenship.",
+      "crossRefs": [89]
+    },
+    {
+      "id": 3.1,
+      "section": "A",
+      "term": "Amer’ican (Historical Usage — 1828)",
+      "pos": "historical usage",
+      "definition": "A historical form of American defined in early U.S. usage as a native of America, originally applied to aboriginal peoples “found here by the Europeans,” and later extended to descendants of Europeans born in America. The racial language reflects descriptive conventions of the period, not a biological standard. The later reassignment represents reclassification of application rather than abandonment of place-based identity.",
+      "crossRefs": [22]
+    },
+    {
+      "id": 4,
+      "section": "A",
+      "term": "Black American (Ethnic)",
+      "pos": "noun",
+      "definition": "A transitional ethnocultural identifier historically used to express peoplehood formed in the United States through shared conditions, culture, and continuity. It articulated place-based formation but often lacked fixed definitional boundaries. Soulaan clarifies and stabilizes this usage rather than rejecting it.",
+      "crossRefs": [1, 31, 16]
+    },
+    {
+      "id": 5,
+      "section": "A",
+      "term": "Autochthonous",
+      "pos": "adjective",
+      "definition": "Formed or originating in the place where found. In this lexicon, autochthonous refers to place-based formation and continuity, not migration status, ancestry-only frameworks, or legal recognition.",
+      "crossRefs": [6, 8, 26, 83]
+    },
+    {
+      "id": 6,
+      "section": "A",
+      "term": "Indigeneity",
+      "pos": "noun",
+      "definition": "The condition of a people whose identity, culture, and continuity are formed within and sustained by a specific land through multigenerational presence, land-embedded kinship development, and intergenerational transmission. Indigeneity here is descriptive, not legal status, political designation, or claim to state-recognized tribal enrollment. It is expressed through cultural systems, language, spiritual practice, memory, and self-recognition rather than enrollment or sovereignty.",
+      "scope": [
+        "Does not assert exclusive land ownership or territorial sovereignty",
+        "Does not negate the indigeneity of other peoples formed in overlapping regions",
+        "Does not require state/tribal/international recognition",
+        "Not reducible to ancestry-only frameworks"
+      ],
+      "subentries": [
+        {
+          "label": "6a",
+          "term": "Indigenous Continuity Population",
+          "definition": "A people whose ethnocultural identity developed through uninterrupted, multigenerational presence within a specific land base, maintained through kinship, collective historical memory, and intergenerational cultural transmission."
+        },
+        {
+          "label": "6b",
+          "term": "Indigenous Place-Continuity Formation",
+          "definition": "Canonical definition is provided at §26 to prevent duplication. This subentry points to §26."
+        },
+        {
+          "label": "6c",
+          "term": "Multigenerational Land-Based Continuity",
+          "definition": "Sustained presence of a people across successive generations within a specific land base through which cultural identity, social organization, and collective historical memory are preserved and transmitted over time."
+        }
+      ],
+      "crossRefs": [26, 27, 88]
+    },
+    {
+      "id": 7,
+      "section": "A",
+      "term": "Indigenism (Analytical Term)",
+      "pos": "analytical term",
+      "definition": "A political, philosophical, or advocacy framework centering Indigenous rights, sovereignty, decolonization, or movement-based identity claims. In this lexicon it is distinguished from indigeneity (a descriptive condition). Included for analysis, not as a governing category.",
+      "crossRefs": [6]
+    },
+    {
+      "id": 8,
+      "section": "A",
+      "term": "Autogenesis",
+      "pos": "noun",
+      "definition": "The process of self-origination and self-formation through land-embedded kinship development rather than external construction. Autogenesis affirms that peoplehood was not created by enslavement, colonization, or recognition, but persisted through them.",
+      "crossRefs": [1, 5, 32]
+    },
+    {
+      "id": 9,
+      "section": "A",
+      "term": "Auto-Continuity",
+      "pos": "noun",
+      "definition": "The self-sustaining persistence of a people across time without dissolution, replacement, or loss of identity. Auto-continuity explains endurance despite reclassification, displacement, and suppression.",
+      "crossRefs": [10, 22]
+    },
+    {
+      "id": 10,
+      "section": "A",
+      "term": "Continuity Principle",
+      "pos": "noun",
+      "definition": "The interpretive principle that identity is determined by persistence over time rather than changes in naming, status, or classification. Under continuity, shifts in terminology do not constitute the creation of new peoples.",
+      "crossRefs": [22, 88]
+    },
+    {
+      "id": 11,
+      "section": "A",
+      "term": "Memory-as-Law",
+      "pos": "noun",
+      "definition": "The transmission of identity, values, and governance through historical memory anchored in place where formal institutions were denied or hostile. Memory-as-law preserves continuity through oral tradition, ritual, and cultural practice.",
+      "subentries": [
+        {
+          "label": "11a",
+          "term": "Collective Historical Memory",
+          "definition": "Shared, place-anchored remembrance of a people’s origins, experiences, and cultural practices, preserved through kinship continuity, oral and documented transmission, and sustained land-based presence."
+        }
+      ],
+      "crossRefs": [43, 44, 45]
+    },
+    {
+      "id": 12,
+      "section": "A",
+      "term": "Definitional Authority",
+      "pos": "noun",
+      "definition": "The capacity of a people to define themselves according to their own continuity, experience, and land-embedded kinship understanding. Definitional authority precedes recognition and governs internal use regardless of external classification.",
+      "subentries": [
+        {
+          "label": "12a",
+          "term": "Intergenerational, Land-Embedded Cultural Systems",
+          "definition": "Cumulative practices, norms, languages, spiritual frameworks, and social structures transmitted across generations through kinship networks, lived territorial presence, and shared historical memory."
+        }
+      ],
+      "crossRefs": [67, 71]
+    },
+    {
+      "id": 13,
+      "section": "A",
+      "term": "Black (Autobiocultural Usage)",
+      "pos": "noun / adjective",
+      "definition": "A land-embedded kinship-defined autobiocultural term used to express lived identity, historical memory anchored in place, and cultural self-recognition formed in the United States. In this usage, “Black” is not a global racial category; it functions as a self-referential cultural signifier embedded in land, labor, resistance, and meaning-making.",
+      "scope": [
+        "Not interchangeable with global racial Black",
+        "Not interchangeable with diasporic Black identifiers"
+      ],
+      "crossRefs": [15, 16]
+    },
+    {
+      "id": 14,
+      "section": "A",
+      "term": "American Negro (Historical Ethnoracial Term)",
+      "pos": "noun",
+      "definition": "A formal descriptor used primarily from the late 18th century through the mid-20th century for Black populations formed in the United States. Historically distinguished U.S.-formed populations within law, census records, and early sociology. Preserved here as a historical identifier.",
+      "crossRefs": [22]
+    },
+    {
+      "id": 15,
+      "section": "A",
+      "term": "Negro (Racial Classification)",
+      "pos": "noun",
+      "definition": "A broad racial category historically used in Western legal, scientific, and administrative systems, grouping multiple populations without regard to ethnic formation, culture, or continuity. Reflects racial taxonomy rather than peoplehood.",
+      "crossRefs": [51]
+    },
+    {
+      "id": 16,
+      "section": "A",
+      "term": "Black (Global Racial Category)",
+      "pos": "noun / adjective",
+      "definition": "A global racial classification applied to populations based primarily on phenotype. It functions as a racial umbrella encompassing many distinct peoples, cultures, and national identities; it does not imply shared peoplehood or formation. Treated here as external and racial, distinct from autobiocultural or ethnic usage.",
+      "crossRefs": [13]
+    },
+    {
+      "id": 17,
+      "section": "A",
+      "term": "Black American (Racial-National Descriptor)",
+      "pos": "noun / adjective",
+      "definition": "A modern descriptor combining racial classification (“Black”) with U.S. national association. It may include individuals of diverse origins and does not by itself specify continuity, peoplehood, or place-based formation.",
+      "crossRefs": [4, 89]
+    },
+    {
+      "id": 18,
+      "section": "A",
+      "term": "African American (Diasporic Ethnonational Identifier)",
+      "pos": "noun / adjective",
+      "definition": "A modern identifier emphasizing ancestral linkage to Africa within a U.S. national framework. It centers diaspora and ancestry rather than place-of-formation and does not specify autochthonous formation in the United States.",
+      "crossRefs": [74, 75, 77]
+    },
+    {
+      "id": 19,
+      "section": "A",
+      "term": "American Freedmen (Historical Legal Term)",
+      "pos": "noun",
+      "definition": "A designation referring to formerly enslaved persons and their descendants following emancipation in the United States. It denotes legal condition and status, relevant to rights and reparations contexts, but does not by itself define ethnocultural peoplehood.",
+      "crossRefs": [20]
+    },
+    {
+      "id": 20,
+      "section": "A",
+      "term": "Freedmen (Legal Status Term)",
+      "pos": "noun",
+      "definition": "A legal classification indicating emancipation from enslavement. Applies across contexts and does not specify culture, ethnicity, continuity, or peoplehood.",
+      "crossRefs": [19]
+    },
+    {
+      "id": 21,
+      "section": "A",
+      "term": "American Aborigines (Historical Descriptive Term)",
+      "pos": "noun",
+      "definition": "An early descriptive phrase used sporadically to refer to long-established Black populations in the Americas. Lacks standardization and formal definition but reflects observations of deep-rooted presence prior to modern racial taxonomy.",
+      "crossRefs": [3.1]
+    },
+    {
+      "id": 22,
+      "section": "A",
+      "term": "Reclassification",
+      "pos": "noun",
+      "definition": "The process by which a people are renamed, administratively redefined, or politically reassigned without dissolution of continuity. Reclassification explains persistence through shifting labels across historical periods.",
+      "subentries": [
+        {
+          "label": "22a",
+          "term": "Reclassification Violence",
+          "definition": "Harm inflicted through repeated administrative, legal, or scholarly renaming that displaces meaning, fragments peoplehood, and obscures continuity through imposed labels rather than physical removal."
+        },
+        {
+          "label": "22b",
+          "term": "Continuity Disruption",
+          "definition": "Systematic interruption of land-based cultural transmission through displacement, legal erasure, forced assimilation, or imposed identity substitution, producing partial or sustained breaks in intergenerational continuity."
+        }
+      ],
+      "crossRefs": [23, 56]
+    },
+    {
+      "id": 23,
+      "section": "A",
+      "term": "Racialization",
+      "pos": "noun",
+      "definition": "The process by which complex peoples are reduced to racial categories for administrative, economic, or political control. Racialization obscures culture, peoplehood, and continuity by prioritizing phenotype over formation.",
+      "subentries": [
+        {
+          "label": "23a",
+          "term": "Genocidal Conditions",
+          "definition": "Sustained structural, social, legal, or material circumstances that function to destroy a people in whole or in part, including cultural suppression, forced reclassification, family disruption, linguistic erasure, and systematic denial of peoplehood."
+        },
+        {
+          "label": "23b",
+          "term": "Indigecide",
+          "definition": "The targeted destruction, erasure, or suppression of an indigenous people’s identity, continuity, cultural systems, or recognition without requiring physical extermination; operates through reclassification and denial of indigenous status."
+        },
+        {
+          "label": "23c",
+          "term": "Dehumanization (by Misclassification & Genetic Descent)",
+          "definition": "Systematic denial of dignity achieved by substituting specific peoplehood with ancestry-only logic, genetic-input framing, or generic racial categories; disguises itself as neutral classification while producing institutional harm."
+        }
+      ],
+      "crossRefs": [51, 56, 82]
+    },
+    {
+      "id": 24,
+      "section": "A",
+      "term": "Political Identifier",
+      "pos": "category term",
+      "definition": "A label created for organizing, advocacy, or policy engagement. Political identifiers may shift, expire, or be replaced without affecting underlying peoplehood.",
+      "crossRefs": [31]
+    },
+    {
+      "id": 25,
+      "section": "A",
+      "term": "Diasporic Identifier",
+      "pos": "category term",
+      "definition": "A classification emphasizing ancestral dispersion rather than place-based formation. Diasporic identifiers are distinct from autochthonous or ethnocultural terms and do not define land-embedded continuity by themselves.",
+      "crossRefs": [74, 77]
+    },
+
+    {
+      "id": 26,
+      "section": "B",
+      "term": "Indigenous Place-Continuity Formation",
+      "pos": "noun",
+      "definition": "The process by which a people’s ethnocultural identity emerges and persists through uninterrupted, multigenerational presence within a specific land base, binding identity to land, kinship transmission, ecological adaptation, and historical memory, independent of modern state formation or external recognition.",
+      "crossRefs": [6, 83]
+    },
+    {
+      "id": 27,
+      "section": "B",
+      "term": "Continuity-Based Descriptive Methodology",
+      "pos": "method term",
+      "definition": "An analytical approach that defines peoples and identities according to historical persistence, land-based continuity, and intergenerational cultural transmission rather than ancestry-only models, racial taxonomy, or administrative categorization. Descriptive rather than prescriptive; not a legal sovereignty claim.",
+      "crossRefs": [88]
+    },
+    {
+      "id": 28,
+      "section": "B",
+      "term": "Analytically Portable, Ethnoculturally Specific Framework",
+      "pos": "method term",
+      "definition": "A definitional structure usable across academic and institutional contexts while remaining specific to the people and continuity conditions it describes. Transferable for comparison; not generalizable beyond scope.",
+      "crossRefs": [1.1]
+    },
+    {
+      "id": 29,
+      "section": "B",
+      "term": "Political Identifier",
+      "pos": "category term",
+      "definition": "See §24. (This entry is retained to preserve your original numbering history; §24 is canonical.)",
+      "crossRefs": [24]
+    },
+    {
+      "id": 30,
+      "section": "B",
+      "term": "Diasporic Identifier",
+      "pos": "category term",
+      "definition": "See §25. (Retained for numbering history; §25 is canonical.)",
+      "crossRefs": [25]
+    },
+    {
+      "id": 31,
+      "section": "B",
+      "term": "Transitional Identifier",
+      "pos": "category term",
+      "definition": "A term used during periods of definitional instability to express identity without fixed scope or stabilized boundaries. Transitional identifiers signal continuity under linguistic uncertainty and do not constitute the creation of a new people.",
+      "crossRefs": [22]
+    },
+    {
+      "id": 32,
+      "section": "B",
+      "term": "Autochthonous Civilizational Producers",
+      "pos": "primary civilizational definition",
+      "definition": "A people formed in place whose collective existence is defined by the origination, production, defense, and intergenerational transmission of society itself. Defined by continuity and civilizational function, not by imposed status or trauma frameworks.",
+      "subentries": [
+        {
+          "label": "32a",
+          "term": "Autochthonous Defenders and Originators of Society (ADOS)",
+          "definition": "A functional descriptor referring to defensive, productive, and organizing roles in creation, protection, and maintenance of society; describes capacity and responsibility rather than victimhood."
+        },
+        { "label": "32a1", "term": "Civilizational Laborers", "definition": "Emphasizes sustained intergenerational labor through which infrastructure, agriculture, institutions, and public goods are produced and maintained." },
+        { "label": "32a2", "term": "Involuntary Civilization-Builders", "definition": "Identifies periods when civilizational labor was extracted under coercion without altering underlying peoplehood." },
+        { "label": "32a3", "term": "Hereditary Producers of the American Commons", "definition": "Denotes intergenerational labor and cultural production that created and sustained shared public wealth and institutional foundations." },
+        { "label": "32a4", "term": "Foundational American Labor Civilization", "definition": "Recognizes a people as foundational to U.S. society through continuous labor, defense, innovation, and cultural transmission." }
+      ],
+      "crossRefs": [8, 23]
+    },
+    {
+      "id": 33,
+      "section": "B",
+      "term": "Definitional Capture",
+      "pos": "noun",
+      "definition": "The process by which a people’s self-defined identity is displaced or overridden by external classifications or reductive frameworks that obscure continuity, peoplehood, or civilizational role; operates through institutions, language, records, and policy rather than physical removal.",
+      "crossRefs": [12, 56]
+    },
+
+    {
+      "id": 34,
+      "section": "C",
+      "term": "Culture",
+      "pos": "noun",
+      "definition": "The integrated set of practices, values, expressions, and norms developed and sustained by a people over time. Culture is functional, adaptive, and central to continuity rather than ornamental.",
+      "crossRefs": [35, 49]
+    },
+    {
+      "id": 35,
+      "section": "C",
+      "term": "Cultural System",
+      "pos": "noun",
+      "definition": "An interrelated framework of practices, meanings, and institutions through which culture operates, including language, spirituality, kinship norms, music, ethics, and ritual. These systems function collectively rather than in isolation.",
+      "crossRefs": [34]
+    },
+    {
+      "id": 36,
+      "section": "C",
+      "term": "Ebonics (Ethnic Language System)",
+      "pos": "noun",
+      "definition": "A structured linguistic system developed by U.S.-formed Black populations through shared historical conditions, adaptation, and innovation, with distinct grammar, syntax, phonology, and semantic patterns. Functions as an ethnic language system, not informal speech.",
+      "crossRefs": [37, 38]
+    },
+    {
+      "id": 37,
+      "section": "C",
+      "term": "Tutnese",
+      "pos": "noun",
+      "definition": "A coded linguistic system developed for secrecy, protection, and land-embedded kinship communication; demonstrates linguistic innovation under constraint and continuity-preserving creativity.",
+      "crossRefs": [36, 38]
+    },
+    {
+      "id": 38,
+      "section": "C",
+      "term": "Language Sovereignty",
+      "pos": "noun",
+      "definition": "The capacity of a people to define, preserve, and govern their own linguistic systems. Affirms that meaning is land-embedded kinship-governed rather than externally imposed.",
+      "crossRefs": [12, 67]
+    },
+    {
+      "id": 39,
+      "section": "C",
+      "term": "Hoodoo",
+      "pos": "noun",
+      "definition": "An autochthonous spiritual, cultural, and ethical system formed in the United States through continuity, adaptation, and land-embedded kinship development. Encompasses cosmology, ancestral reverence, healing, protection, moral order, and practical spirituality.",
+      "subentries": [
+        { "label": "39a", "term": "Hoodoo Explained (Way of Knowing & Way of Being)", "definition": "Hoodoo functions as a knowledge system and ontological framework grounded in ecology, ancestry, land, and responsibility; preserves spiritual governance under hostile institutional conditions." }
+      ],
+      "crossRefs": [40, 41]
+    },
+    {
+      "id": 40,
+      "section": "C",
+      "term": "Rootwork",
+      "pos": "noun",
+      "definition": "Applied ritual, medicinal, and protective practices within the Hoodoo system. Refers to execution and operational practice rather than doctrine.",
+      "crossRefs": [39]
+    },
+    {
+      "id": 41,
+      "section": "C",
+      "term": "Spiritual Autonomy",
+      "pos": "noun",
+      "definition": "The capacity of a people to govern spiritual expression independent of imposed religious authority. Enabled continuity where institutional religion was inaccessible or coercive.",
+      "crossRefs": [39, 42]
+    },
+    {
+      "id": 42,
+      "section": "C",
+      "term": "Black Church (Autonomous)",
+      "pos": "noun",
+      "definition": "Independent religious institutions formed by Black Americans for worship, governance, education, and community organization; historically functioned as a site of moral law, coordination, and cultural preservation.",
+      "crossRefs": [41]
+    },
+    {
+      "id": 43,
+      "section": "C",
+      "term": "Oral Tradition",
+      "pos": "noun",
+      "definition": "Transmission of knowledge, history, and values through spoken word, performance, and practice; preserved memory where written records were denied or distorted.",
+      "crossRefs": [11]
+    },
+    {
+      "id": 44,
+      "section": "C",
+      "term": "Music-as-Memory",
+      "pos": "noun",
+      "definition": "Cultural expression functioning as a repository of history, emotion, and memory anchored in place; encodes continuity and lived experience across generations.",
+      "crossRefs": [11]
+    },
+    {
+      "id": 45,
+      "section": "C",
+      "term": "Ritual Continuity",
+      "pos": "noun",
+      "definition": "Maintenance of identity through repeated symbolic and practical acts; reinforces peoplehood beyond formal recognition.",
+      "crossRefs": [11, 41]
+    },
+    {
+      "id": 46,
+      "section": "C",
+      "term": "Cultural Innovation",
+      "pos": "noun",
+      "definition": "Creation of new forms within an existing continuum; adaptation without dissolution of identity.",
+      "crossRefs": [34]
+    },
+    {
+      "id": 47,
+      "section": "C",
+      "term": "Collective Ethics",
+      "pos": "noun",
+      "definition": "Shared moral expectations governing behavior, responsibility, and communal obligation; functions as cultural law rather than codified statute.",
+      "crossRefs": [11]
+    },
+    {
+      "id": 48,
+      "section": "C",
+      "term": "Cultural Autonomy",
+      "pos": "noun",
+      "definition": "Independence of a people’s cultural development from external control or domination; enables survival, adaptation, and self-definition.",
+      "crossRefs": [12, 41]
+    },
+    {
+      "id": 49,
+      "section": "C",
+      "term": "Civilizational Formation",
+      "pos": "noun",
+      "definition": "Multigenerational structuring of social, cultural, spiritual, and moral systems; affirms depth, coherence, and persistence beyond temporary conditions.",
+      "crossRefs": [32, 34]
+    },
+
+    {
+      "id": 50,
+      "section": "D",
+      "term": "Ethnicity",
+      "pos": "noun",
+      "definition": "A form of peoplehood defined by shared formation, culture, continuity, and land-embedded kinship self-recognition. Distinct from race and nationality.",
+      "crossRefs": [2, 51, 52]
+    },
+    {
+      "id": 51,
+      "section": "D",
+      "term": "Race",
+      "pos": "classification term",
+      "definition": "A socially constructed system of categorization based primarily on perceived physical traits. Functions as an administrative and political classification rather than a measure of peoplehood or culture.",
+      "crossRefs": [23]
+    },
+    {
+      "id": 52,
+      "section": "D",
+      "term": "Nationality",
+      "pos": "noun",
+      "definition": "Legal membership in a political state. Distinct from ethnicity and may change without altering peoplehood.",
+      "crossRefs": [89]
+    },
+    {
+      "id": 53,
+      "section": "D",
+      "term": "Citizenship",
+      "pos": "legal status",
+      "definition": "A formal legal relationship between an individual and a state. Citizenship does not define culture, ethnicity, or continuity.",
+      "crossRefs": [52]
+    },
+    {
+      "id": 54,
+      "section": "D",
+      "term": "Legal Identity",
+      "pos": "noun",
+      "definition": "An identity recognized by law for purposes of rights, obligations, and governance. May or may not correspond to ethnocultural identity.",
+      "crossRefs": [56]
+    },
+    {
+      "id": 55,
+      "section": "D",
+      "term": "Cultural Identity",
+      "pos": "noun",
+      "definition": "Identity derived from shared culture, memory, and lived experience. Persists independently of legal recognition.",
+      "crossRefs": [34]
+    },
+    {
+      "id": 56,
+      "section": "D",
+      "term": "Administrative Classification",
+      "pos": "noun",
+      "definition": "A category created by institutions for governance, record-keeping, or policy implementation. Prioritizes manageability over cultural accuracy.",
+      "crossRefs": [22, 33]
+    },
+    {
+      "id": 57,
+      "section": "D",
+      "term": "Institutional Use",
+      "pos": "noun",
+      "definition": "Application of terms within educational, legal research, or organizational systems. Requires definitional clarity to prevent misclassification.",
+      "crossRefs": [69, 70, 71]
+    },
+    {
+      "id": 58,
+      "section": "D",
+      "term": "Land-Embedded & Kinship Governance",
+      "pos": "noun",
+      "definition": "Self-regulation of a people’s cultural, linguistic, and organizational affairs within their own institutions. Internal governance does not require state authority.",
+      "crossRefs": [12, 68]
+    },
+    {
+      "id": 59,
+      "section": "D",
+      "term": "Membership Definition",
+      "pos": "noun",
+      "definition": "Criteria used by an organization or cultural body to define inclusion. Membership definitions are land-embedded kinship-governed and context-specific.",
+      "crossRefs": [58]
+    },
+    {
+      "id": 60,
+      "section": "D",
+      "term": "Scope Clause",
+      "pos": "noun",
+      "definition": "A definitional provision specifying what a term includes and excludes. Prevents ambiguity and misuse.",
+      "crossRefs": [6, 68]
+    },
+    {
+      "id": 61,
+      "section": "D",
+      "term": "Rules of Interpretation",
+      "pos": "noun",
+      "definition": "Guidelines governing how terms are read and applied for consistent use across contexts.",
+      "crossRefs": [10, 62]
+    },
+    {
+      "id": 62,
+      "section": "D",
+      "term": "Definitional Hierarchy",
+      "pos": "noun",
+      "definition": "Ordering of terms according to authority and scope. Within this lexicon, ethnocultural definitions govern over racial or administrative ones.",
+      "crossRefs": [12, 56]
+    },
+    {
+      "id": 63,
+      "section": "D",
+      "term": "Citation Standard",
+      "pos": "noun",
+      "definition": "A formal method for referencing definitions and sources to enable academic, legal, and institutional use.",
+      "crossRefs": [64, 66]
+    },
+    {
+      "id": 64,
+      "section": "D",
+      "term": "Primary Definitional Source",
+      "pos": "noun",
+      "definition": "An authoritative reference governing the meaning of terms within a given framework. This lexicon functions as a primary definitional source for Soulaan-affiliated institutions.",
+      "crossRefs": [67]
+    },
+    {
+      "id": 65,
+      "section": "D",
+      "term": "Secondary Reference",
+      "pos": "noun",
+      "definition": "An external source consulted for context or comparison. Secondary references do not override land-embedded kinship meanings established in this lexicon.",
+      "crossRefs": [64]
+    },
+    {
+      "id": 66,
+      "section": "D",
+      "term": "Attribution Requirement",
+      "pos": "noun",
+      "definition": "A requirement that unique definitions be properly credited when reused. Preserves integrity and prevents misrepresentation.",
+      "crossRefs": [63]
+    },
+    {
+      "id": 67,
+      "section": "D",
+      "term": "Lexical Authority",
+      "pos": "noun",
+      "definition": "Recognized capacity of a body or text to define terms within a specific scope. Established through clarity, consistency, and land-embedded kinship governance.",
+      "crossRefs": [12, 64]
+    },
+    {
+      "id": 68,
+      "section": "D",
+      "term": "Non-Sovereignty Clause",
+      "pos": "noun",
+      "definition": "A provision clarifying that definitions do not assert statehood, citizenship authority, or territorial jurisdiction; prevents misinterpretation of cultural documentation as political secession.",
+      "crossRefs": [1, 6]
+    },
+    {
+      "id": 69,
+      "section": "D",
+      "term": "Educational Application",
+      "pos": "noun",
+      "definition": "Use of definitions in curricula, instruction, or scholarship. Requires precise, neutral language and stable citation.",
+      "crossRefs": [57]
+    },
+    {
+      "id": 70,
+      "section": "D",
+      "term": "Administrative Application",
+      "pos": "noun",
+      "definition": "Use of definitions in organizational records, policies, or programs. Prioritizes clarity and consistency.",
+      "crossRefs": [56, 57]
+    },
+    {
+      "id": 71,
+      "section": "D",
+      "term": "Institutional Recognition",
+      "pos": "noun",
+      "definition": "Acknowledgment by an institution of a definitional framework for internal use. Does not require legal endorsement.",
+      "crossRefs": [57]
+    },
+    {
+      "id": 72,
+      "section": "D",
+      "term": "Definitional Stability",
+      "pos": "noun",
+      "definition": "Maintenance of consistent meanings across time and contexts to enable reliable citation and multigenerational use.",
+      "crossRefs": [73]
+    },
+    {
+      "id": 73,
+      "section": "D",
+      "term": "Revision Protocol",
+      "pos": "noun",
+      "definition": "A formal process for updating definitions while preserving continuity. Revisions are issued as new editions, not silent alterations.",
+      "crossRefs": [72]
+    },
+
+    {
+      "id": 74,
+      "section": "E",
+      "term": "Diaspora",
+      "pos": "noun",
+      "definition": "Dispersion of a people from their primary place of ethnocultural formation to other regions while maintaining collective identity, memory, and relational ties to that place. Presupposes a defined origin of formation and continuity across distance.",
+      "notes": [
+        "Draft note (74b): your extended argument distinguishing diaspora logic from place-formation logic is preserved here for reference, while the main definition remains neutral and institutional."
+      ],
+      "crossRefs": [75, 77]
+    },
+    {
+      "id": 75,
+      "section": "E",
+      "term": "African Diaspora",
+      "pos": "distinguished term",
+      "definition": "A framework describing populations dispersed from the African continent or identifying Africa as their primary place of formation. In this lexicon it is continent-centered and ancestry-oriented rather than place-of-formation-based.",
+      "crossRefs": [74, 77]
+    },
+    {
+      "id": 76,
+      "section": "E",
+      "term": "Soulaan Diaspora (Retired — Version 0.92)",
+      "pos": "historical descriptive term",
+      "definition": "A non-governing descriptive label occasionally applied to Soulaan populations residing outside the U.S. due to migration, military service, labor movement, or displacement. Retained only to document prior external usage; does not function as an internal governing category in this lexicon.",
+      "crossRefs": [74]
+    },
+    {
+      "id": 77,
+      "section": "E",
+      "term": "Diasporic Misclassification",
+      "pos": "noun",
+      "definition": "Assignment of a people to a diaspora unrelated to their place of formation, often based solely on ancestry-only or racial umbrella logic. Obscures peoplehood and continuity.",
+      "crossRefs": [74, 82, 83]
+    },
+    {
+      "id": 78,
+      "section": "E",
+      "term": "Boundary",
+      "pos": "noun",
+      "definition": "A definitional line distinguishing identities, categories, or frameworks to preserve accuracy and prevent conflation. Boundaries are descriptive tools, not instruments of hostility.",
+      "crossRefs": [79, 81]
+    },
+    {
+      "id": 79,
+      "section": "E",
+      "term": "Demarcation",
+      "pos": "noun",
+      "definition": "Deliberate clarification of boundaries between identities, peoples, or classifications based on formation, continuity, and land-embedded kinship definition. Functions as a governance mechanism of clarity, not hierarchy.",
+      "crossRefs": [80, 86]
+    },
+    {
+      "id": 80,
+      "section": "E",
+      "term": "Demarcation Principle",
+      "pos": "noun",
+      "definition": "Interpretive principle that accurate naming requires clear boundaries grounded in peoplehood, formation, and continuity. Holds that solidarity does not require sameness and shared struggle does not erase distinct identities.",
+      "notes": [
+        "Draft note (80b): your expanded Demarcated Ecological Humanism framework is preserved as notes so the core lexicon remains definitional and scannable."
+      ],
+      "crossRefs": [86, 88]
+    },
+    {
+      "id": 81,
+      "section": "E",
+      "term": "Conflation",
+      "pos": "noun",
+      "definition": "Improper merging of distinct identities, categories, or peoples into a single undifferentiated group, obscuring specificity and undermining accurate understanding.",
+      "crossRefs": [78]
+    },
+    {
+      "id": 82,
+      "section": "E",
+      "term": "Ancestry-Only Framework",
+      "pos": "noun",
+      "definition": "A model of identity based solely on genetic lineage or continental origin. Insufficient for defining peoplehood because it ignores place-based formation, culture, and continuity.",
+      "crossRefs": [83, 77]
+    },
+    {
+      "id": 83,
+      "section": "E",
+      "term": "Place-Based Formation",
+      "pos": "noun",
+      "definition": "Development of a people’s identity through sustained presence, labor, memory, and cultural creation within a specific land. Emphasizes lived continuity over origin narratives.",
+      "crossRefs": [26, 82]
+    },
+    {
+      "id": 84,
+      "section": "E",
+      "term": "Misidentification",
+      "pos": "noun",
+      "definition": "Incorrect labeling of a people due to reliance on external or incomplete frameworks; often results from racialization, diasporic overreach, or administrative convenience.",
+      "crossRefs": [77, 56]
+    },
+    {
+      "id": 85,
+      "section": "E",
+      "term": "Boundary Integrity",
+      "pos": "noun",
+      "definition": "Maintenance of clear definitional limits to preserve identity accuracy over time; protects peoplehood from dilution without requiring opposition.",
+      "crossRefs": [78, 79]
+    },
+    {
+      "id": 86,
+      "section": "E",
+      "term": "Solidarity Without Conflation",
+      "pos": "principle",
+      "definition": "Recognition that cooperation and mutual respect do not require shared identity or merged classification; allows ethical/political alignment while remaining accurately named.",
+      "crossRefs": [81, 85]
+    },
+    {
+      "id": 87,
+      "section": "E",
+      "term": "Land-Embedded Kinship vs. External Definition",
+      "pos": "distinction",
+      "definition": "Differentiation between identities defined by a people themselves and classifications imposed from outside. Land-embedded kinship definitions govern peoplehood; external definitions describe administrative or observational categories.",
+      "crossRefs": [12, 56]
+    },
+    {
+      "id": 88,
+      "section": "E",
+      "term": "Continuity-Based Classification",
+      "pos": "noun",
+      "definition": "A method of identity classification grounded in persistence over time rather than shifting labels or imposed categories; privileges lived history over administrative convenience.",
+      "crossRefs": [10, 22, 27]
+    },
+
+    {
+      "id": 89,
+      "section": "F",
+      "term": "American (Ethno-National)",
+      "pos": "noun / adjective",
+      "definition": "A national identity tied to citizenship, allegiance, or political membership within the United States. Ethno-national “American” refers to the state and its legal apparatus, not ethnocultural formation. Individuals of any ethnicity may hold American nationality without sharing peoplehood.",
+      "crossRefs": [3, 52]
+    },
+    {
+      "id": 90,
+      "section": "F",
+      "term": "African (Continental Identifier)",
+      "pos": "noun / adjective",
+      "definition": "A geographic/continental descriptor referring to origin or association with the African continent. Does not constitute a single ethnicity; continental identity does not imply shared peoplehood.",
+      "crossRefs": [91]
+    },
+    {
+      "id": 91,
+      "section": "F",
+      "term": "African (Ethnic / Tribal)",
+      "pos": "noun",
+      "definition": "A specific people defined by shared lineage, language, culture, and historical continuity within Africa. Ethnic identity is typically expressed through people-specific names rather than continental terms.",
+      "crossRefs": [90]
+    },
+    {
+      "id": 92,
+      "section": "F",
+      "term": "Caribbean (Ethno-National Identifier)",
+      "pos": "noun / adjective",
+      "definition": "An identity tied to island-based nations formed through colonial history, creolization, and post-colonial statehood. Primarily ethno-national, not continental; distinct peoples exist across the region with unique formations.",
+      "crossRefs": []
+    },
+    {
+      "id": 93,
+      "section": "F",
+      "term": "European (Continental Identifier)",
+      "pos": "noun / adjective",
+      "definition": "A geographic descriptor referring to origin or association with Europe. Does not denote a single ethnicity; ethnic identity is expressed through specific peoples and nations.",
+      "crossRefs": [94]
+    },
+    {
+      "id": 94,
+      "section": "F",
+      "term": "European (Ethnic)",
+      "pos": "noun",
+      "definition": "A people defined by shared historical formation, language, culture, and continuity within Europe (e.g., English, Irish, German, Italian), each representing distinct formations rather than a unified European ethnicity.",
+      "crossRefs": [93]
+    },
+    {
+      "id": 95,
+      "section": "F",
+      "term": "Asian (Continental Identifier)",
+      "pos": "noun / adjective",
+      "definition": "A geographic descriptor referring to origin or association with Asia. Asia contains numerous civilizations and peoples; continental identification does not imply shared culture or peoplehood.",
+      "crossRefs": []
+    },
+    {
+      "id": 96,
+      "section": "F",
+      "term": "Arab (Ethno-Cultural Identifier)",
+      "pos": "noun / adjective",
+      "definition": "An ethnocultural identity defined by shared language, culture, and historical continuity across parts of North Africa and West Asia. Not synonymous with race or continent; includes multiple nationalities and regions.",
+      "crossRefs": []
+    }
+  ]
+}
