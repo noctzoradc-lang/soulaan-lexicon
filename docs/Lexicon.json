@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "Soulaan Lexicon of Continuity",
+    "subtitle": "A Trust-Governed Definitional Reference",
+    "version": "0.92",
+    "status": "Provisional Edition",
+    "year": 2026,
+    "governingAuthority": "Freedmen Reparations Fund Trust (FRFT)",
+    "steward": "Dwayne Coleman",
+    "site": "https://noctzoradc-lang.github.io/soulaan-lexicon/"
+  },
+  "sections": [
+    { "id": "A", "title": "Foundational Principles & Peoplehood Definitions", "range": "1–25" },
+    { "id": "B", "title": "Interpretive, Methodological & Governance Terms", "range": "26–33" },
+    { "id": "C", "title": "Cultural, Linguistic & Spiritual Systems", "range": "34–49" },
+    { "id": "D", "title": "Identity, Classification & Institutional Application", "range": "50–73" },
+    { "id": "E", "title": "Diaspora, Boundary & Demarcation Terms", "range": "74–88" },
+    { "id": "F", "title": "Comparative Ethnic & Ethno-National Terms", "range": "89–96" }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "section": "A",
+      "term": "Soulaan",
+      "pos": "noun",
+      "definition": "An indigenous continuity people whose ethnocultural identity emerged and persists through multigenerational, land-based continuity within the land now called the United States, sustained through kinship transmission, collective historical memory, and land-embedded cultural systems. Soulaan denotes a peoplehood not reducible to race, nationality, diaspora, or legal status, and preserves continuity across historical reclassifications without implying rupture or replacement.",
+      "scope": [
+        "Definitional, not advocative",
+        "Non-sovereignty / non-jurisdiction",
+        "Not a claim to legal tribal enrollment or exclusive territorial rights",
+        "Does not negate other peoples’ indigeneity"
+      ],
+      "crossRefs": [2, 5, 6, 8, 10, 12, 22]
+    },
+    {
+      "id": 2,
+      "section": "A",
+      "term": "Peoplehood",
+      "pos": "noun",
+      "definition": "The condition of being a people, characterized by shared continuity, historical memory anchored in place, cultural systems, and land-embedded kinship self-recognition. Peoplehood exists independently of state recognition, legal status, or external validation and is sustained through intergenerational transmission rather than formal designation.",
+      "crossRefs": [1, 10, 11]
+    },
+    {
+      "id": 5,
+      "section": "A",
+      "term": "Autochthonous",
+      "pos": "adjective",
+      "definition": "Formed or originating in the place where found. In this Lexicon, autochthonous refers to place-based formation and continuity rather than migration status, ancestry-only frameworks, or legal recognition.",
+      "crossRefs": [6, 8, 83]
+    },
+    {
+      "id": 6,
+      "section": "A",
+      "term": "Indigeneity",
+      "pos": "noun",
+      "definition": "The condition of a people whose identity, culture, and continuity are formed within and sustained by a specific land through multigenerational presence, land-embedded kinship development, and intergenerational transmission. As used here, indigeneity is descriptive, not a legal status, political designation, or claim to state-recognized tribal enrollment.",
+      "scope": [
+        "Does not assert exclusive land ownership or sovereignty",
+        "Does not negate other peoples’ indigeneity",
+        "Does not require state/tribal/international recognition",
+        "Not reducible to ancestry-only models"
+      ],
+      "subentries": [
+        {
+          "label": "6a",
+          "term": "Indigenous Continuity Population",
+          "definition": "A people whose ethnocultural identity developed through uninterrupted, multigenerational presence in a specific land base, maintained through kinship, collective historical memory, and intergenerational cultural transmission."
+        },
+        {
+          "label": "6b",
+          "term": "Indigenous Place-Continuity Formation",
+          "definition": "See §26. (Canonical entry is §26 to prevent duplication.)"
+        },
+        {
+          "label": "6c",
+          "term": "Multigenerational Land-Based Continuity",
+          "definition": "Sustained presence across successive generations within a specific land base through which cultural identity and collective historical memory are preserved and transmitted."
+        }
+      ],
+      "crossRefs": [26, 27, 79, 83]
+    },
+    {
+      "id": 8,
+      "section": "A",
+      "term": "Autogenesis",
+      "pos": "noun",
+      "definition": "The process of self-origination and self-formation through land-embedded kinship development rather than external construction. Autogenesis describes how a people come into being through struggle, creativity, memory, and cultural production; coercive systems acted upon the people but did not create their peoplehood.",
+      "crossRefs": [1, 5, 10, 32]
+    },
+    {
+      "id": 10,
+      "section": "A",
+      "term": "Memory-as-Law",
+      "pos": "noun",
+      "definition": "The transmission of identity, values, and governance through collective historical memory anchored in place, especially under conditions where formal institutions were denied or hostile. Memory-as-law preserved continuity through oral tradition, ritual, and cultural practice.",
+      "crossRefs": [2, 43, 45]
+    },
+    {
+      "id": 22,
+      "section": "A",
+      "term": "Reclassification",
+      "pos": "noun",
+      "definition": "The process by which a people are renamed, administratively redefined, or politically reassigned without dissolution of continuity. Reclassification explains how peoplehood persists through shifting labels across historical periods.",
+      "subentries": [
+        {
+          "label": "22a",
+          "term": "Reclassification Violence",
+          "definition": "Harm inflicted through repeated administrative or scholarly renaming that fragments peoplehood and obscures continuity by imposed labels rather than physical removal."
+        },
+        {
+          "label": "22b",
+          "term": "Continuity Disruption",
+          "definition": "Systematic interruption of land-based cultural transmission through displacement, legal erasure, forced assimilation, or imposed identity substitution."
+        }
+      ],
+      "crossRefs": [23, 77]
+    },
+
+    /* SECTION B — canonical methodology terms (no duplicates) */
+    {
+      "id": 26,
+      "section": "B",
+      "term": "Indigenous Place-Continuity Formation",
+      "pos": "noun",
+      "definition": "The process by which a people’s ethnocultural identity emerges and persists through uninterrupted, multigenerational presence within a specific land base, binding identity to land, kinship transmission, ecological adaptation, and historical memory, independent of modern state formation.",
+      "crossRefs": [6, 83]
+    },
+    {
+      "id": 27,
+      "section": "B",
+      "term": "Continuity-Based Descriptive Methodology",
+      "pos": "method term",
+      "definition": "An analytical approach that defines peoples according to historical persistence, land-based continuity, and intergenerational cultural transmission rather than ancestry-only models, racial taxonomy, or administrative categorization. Descriptive rather than prescriptive.",
+      "crossRefs": [26, 88]
+    },
+    {
+      "id": 28,
+      "section": "B",
+      "term": "Analytically Portable, Ethnoculturally Specific Framework",
+      "pos": "method term",
+      "definition": "A definitional structure usable across academic and institutional contexts while remaining specific to the people and continuity conditions it describes—transferable for comparison, not generalizable beyond its scope.",
+      "crossRefs": [27]
+    },
+
+    /* SECTION E — diaspora cleaned to definitional tone */
+    {
+      "id": 74,
+      "section": "E",
+      "term": "Diaspora",
+      "pos": "noun",
+      "definition": "The dispersion of a people from their primary place of ethnocultural formation to other regions while maintaining collective identity, memory, and relational ties to that place. Diaspora presupposes a defined origin of formation and continuity maintained across distance.",
+      "crossRefs": [75, 77]
+    },
+    {
+      "id": 77,
+      "section": "E",
+      "term": "Diasporic Misclassification",
+      "pos": "noun",
+      "definition": "The assignment of a people to a diaspora unrelated to their place of formation, typically through ancestry-only or racial umbrella logic. Diasporic misclassification obscures peoplehood and continuity by replacing place-based formation with external dispersion frameworks.",
+      "crossRefs": [74, 82, 83]
+    }
+
+    /* Add the rest of your entries here following the same format */
+  ]
+}
